@@ -1,6 +1,6 @@
-[submodule "koa-analysis"]
-	path = koa-analysis
-	url = ./koa-analysis
+[submodule "koa-compose-analysis"]
+	path = koa-compose-analysis
+	url = ./koa-compose-analysis
 [submodule "vue-next-analysis"]
 	path = vue-next-analysis
 	url = ./vue-next-analysis
